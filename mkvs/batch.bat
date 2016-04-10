@@ -1,0 +1,1 @@
+"PATH\mkvs\ffmpeg.exe" -i "PATH\mkvs\THE_CRF.mkv" -an -f image2 "Encode_%%05d.png"

@@ -1,0 +1,1 @@
+"PATH\mkvs\ffprobe.exe" -v quiet -show_entries format=bit_rate "THE_CRF.mkv"  > "bitrate.txt"

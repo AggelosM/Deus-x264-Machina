@@ -1,0 +1,1 @@
+"PATH\mkvs\ffmpeg.exe" -i "SOURCEPATH\source.avs" -an -f image2 "source_%%05d.png"
