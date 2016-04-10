@@ -14,4 +14,4 @@ FFVideoSource("\REMUX.mkv")#####################################################
 Crop(0, 0, -0, -0)################################## REPLACE WITH THE RIGHT VALUES
 Spline36Resize(1920,1080)########################### REPLACE WITH THE RIGHT VALUES
 Trim(8000,120000)
-SelectRangeEvery(10000,5,1)######################### REPLACE WITH THE RIGHT VALUES
+SelectRangeEvery(10000,5,1)######################### REPLACE WITH THE DESIRED VALUES
