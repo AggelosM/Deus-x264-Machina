@@ -13,6 +13,8 @@ Automatically finds the most suitable x264 settings for your encoding
 
 # Instructions
 
+ - Download all the files and folders and place them inside a folder. (Preferably in an SSD hard drive)
+
 ##### - Open source.avs
 
  - Replace the command attributes according to the #notes
