@@ -518,7 +518,7 @@ find_and_replace('crftest2_new.bat', 'SOURCEPATH', strrep(AVSPathName, '\', '\\'
 find_and_replace('crftest2_new.bat', 'source.avs', AVSFileName)
 find_and_replace('crftest2_new.bat', 'PATH', strrep(moviepath, '\', '\\'))
 
-find_and_replace('crftest2_new.bat', '--ref 16', ['--psy-rd 0.70:0.00 --aq-mode 1 --aq-strength 0.5 --ref ' num2str(ref)]);
+find_and_replace('crftest2_new.bat', '--ref 16', '--psy-rd 0.70:0.00 --aq-mode 1 --aq-strength 0.5 --ref 16');
 if u==2
     find_and_replace('crftest2_new.bat', '--ref 16', ['--deblock -3:-3 --ref ' num2str(ref)]);
 else
