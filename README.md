@@ -5,7 +5,7 @@ Automatically finds the most suitable x264 settings for your encoding
 
 # Requirements
  - Windows
- - A full MATLAB installation. Test if the command "which imread" shows up anyhing. (created and tested with R2014a)
+ - A full MATLAB installation. Test if the command "which imread" displays any error. (created and tested with R2014a)
  - AviSynth with plugins
  - AvsPmod
  
