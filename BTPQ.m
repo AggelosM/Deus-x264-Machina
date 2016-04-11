@@ -40,7 +40,7 @@ else if strcmp(TEST,'rd')
     end
 end
 
-x=linspace(min,max1-val_step,length(Mean_MSE));
+x=min:val_step:max1-val_step;%x=linspace(min,max1-val_step,length(Mean_MSE));
 
 figure('units','normalized','Visible','off','outerposition',[0 0 1 1],'PaperPosition', [0 0 30 24])
 
